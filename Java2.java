@@ -1,3 +1,7 @@
+/*
+Q2. Write a program to find first and last digit of a number without using loop in three digit.
+*/
+
 import java.util.*;
 class Java2
 {
