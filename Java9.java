@@ -1,3 +1,6 @@
+/*
+Q.9Write a java program to find maximum between three numbers.
+*/
 import java.util.*;
 class Java9
 {
