@@ -1,3 +1,10 @@
+/*
+
+Q3. Write a program to calculate sum of first and last digit of a number without using loop.
+Input : 123
+Output : 4
+
+*/
 import java.util.*;
 class Java3
 {
