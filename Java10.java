@@ -1,3 +1,10 @@
+/*
+Q.10 Write a java program to find a minimum between three numbers. 
+
+*/
+
+
+
 import java.util.*;
 class Java10
 {
