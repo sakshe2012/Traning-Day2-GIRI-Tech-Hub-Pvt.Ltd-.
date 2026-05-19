@@ -1,3 +1,6 @@
+/*
+Q7. Write a Java program to input cost price and selling price of a product and check profit or loss.
+*/
 import java.util.*;
 class Java7
 {
