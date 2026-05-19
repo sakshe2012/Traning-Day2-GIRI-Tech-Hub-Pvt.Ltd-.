@@ -1,3 +1,13 @@
+/*Q16. Write a program that takes a grade (A, B, C, D, F) as input and displays the corresponding remark using switch:
+A: Excellent
+B: Good
+C: Average
+D: Poor
+F: Fail
+Explanation:
+ Use a char or string in switch to match grades and print remarks.
+*/
+
 import java.util.*;
 class Java16
 {
