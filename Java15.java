@@ -1,3 +1,8 @@
+/*
+Q.15Create a Java program to simulate a simple calculator using a switch case. It should take two numbers and an operator (+, -, *, /, %) as input and perform the corresponding operation.
+Explanation:
+ Use a switch on the operator to handle different arithmetic operations. Add default to handle invalid operators.
+*/
 import java.util.*;
 class Java15
 {
