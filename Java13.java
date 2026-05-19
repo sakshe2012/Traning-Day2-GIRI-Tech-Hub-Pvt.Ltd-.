@@ -1,3 +1,9 @@
+/*Q.13 Check whether a given employee is eligible for bonus:
+ Input: Years of service and salary.
+Logic: If service > 5 years, give 5% bonus.
+Output: Display bonus amount or no bonus.
+
+*/
 import java.util.*;
 
 class Java13
