@@ -1,3 +1,7 @@
+
+/*Q5. Write a java program to check whether number is palindrome or not.
+*/
+
 import java.util.*;
 class Java5
 {
