@@ -1,3 +1,13 @@
+/*
+Q.11 Print a grade using ternary operators:
+90+: A
+80–89: B
+70–79: C
+<70: F
+
+*/
+
+
 import java.util.*;
 class Java11
 {
