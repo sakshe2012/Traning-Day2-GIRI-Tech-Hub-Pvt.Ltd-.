@@ -1,3 +1,5 @@
+# Java Fundamentals Practice Programs
+
 ## 📌 Overview
 This repository contains a collection of Java practice programs focused on strengthening core programming concepts and logical thinking. The programs cover number-based logic, conditional statements, operators, switch-case implementation, character handling, and basic problem-solving techniques.
 
