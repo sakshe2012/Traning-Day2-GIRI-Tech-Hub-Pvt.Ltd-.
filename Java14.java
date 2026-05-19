@@ -1,3 +1,11 @@
+/*
+Q.14Calculate commission based on sales amount:
+Input: Sales amount
+Logic:
+Sales < 5000 → 2% commission
+Sales 5000–10000 → 5% commission
+Sales > 10000 → 10% commission
+*/
 import java.util.*;
 class Java14
 {
