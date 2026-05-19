@@ -1,3 +1,11 @@
+/*
+Q17. Develop a Java program using switch to print the day type for an input day number (1-7):
+1 for Monday, …, 7 for Sunday.
+For 1-5, display “Weekday”; for 6-7, display “Weekend”.
+Explanation:
+ Use switch with multiple cases falling through for weekdays and weekends.
+*/
+
 import java.util.*;
 class Java17
 {
