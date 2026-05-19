@@ -1,3 +1,7 @@
+/*
+Q1. Write a Java program to reverse a number without using loop.
+Input a number: 123 Reverse number: 321
+*/
 import java.util.*;
 class Java1
 {
